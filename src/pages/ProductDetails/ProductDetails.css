@@ -1,0 +1,14 @@
+.updateForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.updateForm input,
+label {
+  width: 40%;
+  margin-bottom: 5px;
+}
+.updateForm label {
+  text-align: start;
+}
